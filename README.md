@@ -8,6 +8,10 @@
 
     export PATH=$PATH:/usr/local/go/bin
 
+## Other OS
+https://golang.org/doc/install
+
+## Test go install
     go
 
 
